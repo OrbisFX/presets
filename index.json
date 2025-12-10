@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "presets": [
-    "vanilla-plus"
+    "vanilla-plus",
+    "mood-ish"
   ]
 }
