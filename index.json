@@ -1,10 +1,7 @@
 {
   "version": "1.0.0",
   "presets": [
-    "vanilla-plus",
-    "mood-ish",
-    "radience",
-    "cordaga",
-    "sunset-warmth"
+    "aluminum",
+    "palladium"
   ]
 }
